@@ -26,4 +26,3 @@ Tento projekt představuje jednoduchý systém správy skladu napsaný v Pythonu
 python main.py
 
 Tento krok spustí interaktivní menu, které vás provede možnostmi správy skladu, včetně přidání, odebírání zboží, zobrazení stavu skladu a historie transakcí.
-
